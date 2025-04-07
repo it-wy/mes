@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdata_v2"]=self["webpackChunkdata_v2"]||[]).push([[3342],{83342:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var u=function(){var e=this,t=e._self._c;return t("div",[e._v(" 关于 "),t("a-input")],1)},a=[],r={name:"three-demo",data(){return{}},mounted(){},methods:{}},d=r,s=n(1001),l=(0,s.Z)(d,u,a,!1,null,"53be8a90",null),c=l.exports}}]);
+//# sourceMappingURL=3342.9d1de81e.js.map
