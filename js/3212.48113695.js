@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdata_v2"]=self["webpackChunkdata_v2"]||[]).push([[3212],{3212:function(e,t,n){n.r(t),n.d(t,{default:function(){return f}});var u=function(){var e=this,t=e._self._c;return t("div",[e._v(" 关于1-3 ")])},a=[],r={name:"three-demo",data(){return{}},mounted(){},methods:{}},d=r,s=n(1001),c=(0,s.Z)(d,u,a,!1,null,"feb4c2b8",null),f=c.exports}}]);
+//# sourceMappingURL=3212.48113695.js.map
